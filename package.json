@@ -40,7 +40,7 @@
   },
   "homepage": "https://github.com/modelcontextprotocol/server-trello#readme",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.0.4",
+    "@modelcontextprotocol/sdk": "^1.32.2",
     "axios": "^1.6.2"
   },
   "devDependencies": {
